@@ -1,0 +1,38 @@
+{
+  "name": "Trick Pk",
+  "short_name": "TrickPk",
+  "start_url": "https://trickpk.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#009de0",
+  "description": "Trick Pk provides Interesting, useful, and valuable content that helps people to learn a lot of Tricks and Tips, Web Designing skills or Disciplines or Templates in the production and maintenance of websites.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgvczbLSRQ2TRmLaTmFFfO4JQPDe8FL5wr92BDEvOrd85mogFlj5y76S2bBWbkcm6kSBfg-wD8NSedYWxq34IzjkLFo8Ud3lr_AM2TSt-OzChFLVbmpycvDJ0GabpAXYHptL4b_UyGiAgVgbLydmywN7y3DkXsQPdtGNMa9Eva78ckXHtZb-MfIbo4Q/s48/TrickPk%20-%20Tech%20&amp;%20Social%20Blog.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgvczbLSRQ2TRmLaTmFFfO4JQPDe8FL5wr92BDEvOrd85mogFlj5y76S2bBWbkcm6kSBfg-wD8NSedYWxq34IzjkLFo8Ud3lr_AM2TSt-OzChFLVbmpycvDJ0GabpAXYHptL4b_UyGiAgVgbLydmywN7y3DkXsQPdtGNMa9Eva78ckXHtZb-MfIbo4Q/s72/TrickPk%20-%20Tech%20&amp;%20Social%20Blog.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgvczbLSRQ2TRmLaTmFFfO4JQPDe8FL5wr92BDEvOrd85mogFlj5y76S2bBWbkcm6kSBfg-wD8NSedYWxq34IzjkLFo8Ud3lr_AM2TSt-OzChFLVbmpycvDJ0GabpAXYHptL4b_UyGiAgVgbLydmywN7y3DkXsQPdtGNMa9Eva78ckXHtZb-MfIbo4Q/s96/TrickPk%20-%20Tech%20&amp;%20Social%20Blog.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgvczbLSRQ2TRmLaTmFFfO4JQPDe8FL5wr92BDEvOrd85mogFlj5y76S2bBWbkcm6kSBfg-wD8NSedYWxq34IzjkLFo8Ud3lr_AM2TSt-OzChFLVbmpycvDJ0GabpAXYHptL4b_UyGiAgVgbLydmywN7y3DkXsQPdtGNMa9Eva78ckXHtZb-MfIbo4Q/s144/TrickPk%20-%20Tech%20&amp;%20Social%20Blog.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgvczbLSRQ2TRmLaTmFFfO4JQPDe8FL5wr92BDEvOrd85mogFlj5y76S2bBWbkcm6kSBfg-wD8NSedYWxq34IzjkLFo8Ud3lr_AM2TSt-OzChFLVbmpycvDJ0GabpAXYHptL4b_UyGiAgVgbLydmywN7y3DkXsQPdtGNMa9Eva78ckXHtZb-MfIbo4Q/s168/TrickPk%20-%20Tech%20&amp;%20Social%20Blog.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgvczbLSRQ2TRmLaTmFFfO4JQPDe8FL5wr92BDEvOrd85mogFlj5y76S2bBWbkcm6kSBfg-wD8NSedYWxq34IzjkLFo8Ud3lr_AM2TSt-OzChFLVbmpycvDJ0GabpAXYHptL4b_UyGiAgVgbLydmywN7y3DkXsQPdtGNMa9Eva78ckXHtZb-MfIbo4Q/s192/TrickPk%20-%20Tech%20&amp;%20Social%20Blog.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgvczbLSRQ2TRmLaTmFFfO4JQPDe8FL5wr92BDEvOrd85mogFlj5y76S2bBWbkcm6kSBfg-wD8NSedYWxq34IzjkLFo8Ud3lr_AM2TSt-OzChFLVbmpycvDJ0GabpAXYHptL4b_UyGiAgVgbLydmywN7y3DkXsQPdtGNMa9Eva78ckXHtZb-MfIbo4Q/s512/TrickPk%20-%20Tech%20&amp;%20Social%20Blog.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
